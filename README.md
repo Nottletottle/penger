@@ -58,6 +58,9 @@ Rendering is done using Python’s built-in `tkinter` library.
 
 ![3D wireframe rotation demo](animation.gif)
 
+### Model made by:
+https://github.com/Max-Kawula
+
 ---
 
 ## Running the Project
