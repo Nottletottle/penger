@@ -54,6 +54,12 @@ Rendering is done using Python’s built-in `tkinter` library.
 
 ---
 
+## Demo
+
+![3D wireframe rotation demo](animation.gif)
+
+---
+
 ## Running the Project
 
 ```bash
